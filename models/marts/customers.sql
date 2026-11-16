@@ -56,3 +56,4 @@ joined as (
 )
 
 select * from joined
+-- My first change on the practice-sql branch
